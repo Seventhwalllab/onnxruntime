@@ -1,0 +1,7 @@
+6814b31e18b91f9567c05b8b6df873b47c9e19ac185b0cb15bbeeaeeaabbc06d  onnxruntime-linux-aarch64-1.19.2.tgz
+964bf7fc0ffaf5c62d14580fd98ac28c2f713746e20aecd7760e3ad7df3ae012  onnxruntime-linux-x64-1.19.2.tgz
+afce798c5cdcaa63110f569478026973b791e6e81a0d9fd2eee6a1c62b271184  onnxruntime-osx-x86_64-1.19.2.tgz
+a50ef69dad8d694136806051841a382f09290c9af811b13a2955b56640484007  eigen-e7248b26a1ed53fa030c5c459f7ea095dfd276ac.zip
+386c781370f99636b9218f9b7db3aa53e95af53e363dc279fe250709ad897b9f  onnxruntime-osx-x86_64-1.19.2/lib/libonnxruntime.1.19.2.dylib
+9c8139e1856568f068f1cad78fc9798084941db50be7c201a1dbdcfd18105433  onnxruntime-linux-x64-1.19.2/lib/libonnxruntime.so.1.19.2
+d9abfb42ddd120855f93ccb3c97a0918ac5bef209485db0dc3a36a3d188671ab  onnxruntime-linux-aarch64-1.19.2/lib/libonnxruntime.so.1.19.2
