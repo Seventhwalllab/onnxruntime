@@ -1,4 +1,6 @@
-# ONNX Runtime 1.19.2 — unmodified copy of Microsoft's build
+# Unofficial, unmodified copy of Microsoft's ONNX Runtime 1.19.2
+
+Not affiliated with or endorsed by Microsoft or the ONNX project.
 
 This repository keeps a copy of the ONNX Runtime 1.19.2 shared libraries **as
 Microsoft built and published them, byte for byte**, together with Microsoft's
@@ -6,7 +8,8 @@ MIT licence and the release's third-party notices.
 
 ONNX Runtime is Microsoft's project (https://onnxruntime.ai), licensed under the
 MIT licence. This copy is not affiliated with, endorsed by or supported by
-Microsoft. Problems with ONNX Runtime itself belong to its authors, not here.
+Microsoft or the ONNX project. Problems with ONNX Runtime itself belong to its
+authors, not here.
 
 ## Why this copy exists
 
@@ -80,5 +83,6 @@ ONNX Runtime: MIT licence, Copyright (c) Microsoft Corporation — see `LICENSE`
 Its third-party components: `ThirdPartyNotices.txt`.
 The files written for this repository (`README.md`, `SHA256SUMS`, `repack.py`)
 are dedicated to the public domain under CC0-1.0.
-Product names are used only to name the software; they belong to their owners.
+ONNX is a trademark of LF Projects, LLC. ONNX Runtime is a Microsoft project.
+Names are used only to identify the software in this copy.
 
